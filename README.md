@@ -1,4 +1,4 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kahve)
+
 # TL
 
 [![](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/WhiteSymmetry/TL)
